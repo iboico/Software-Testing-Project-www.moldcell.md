@@ -25,3 +25,17 @@ Through the types of testing learned and the testing techniques applied I found 
 3. Microsoft Excel - Test Case Management, Test Data
 4. Microsoft Word - Test Report
 5. Lightshot Screenshot - Screenshots Capture
+
+# Conclusions
+
+Smoke Test Cases (happy flows), for the main functionalities in a percent of 100% were executed, 78% passed and 22% failed. The failed test cases are related to the Cart content, Wishlist and Search functionality.
+
+A total number of 21 new bugs were identified, most of them were identified as normal severity (11 bugs), 4 of them as blocker severity and the rest of 6 bugs were major severity. No bugs were validated.
+
+In addition to Smoke and Positive testing, testing types such as: Functional Testing, Exploratory, Compatibility, Negative, UI, Usability, were covered.
+
+Exploratory testing was performed for important functionalities. A large number of bugs were identified during exploratory testing, 7 of them are normal, 6 of them are major and 2 of them are blocker. Most of them are related to the Registration, Account settings, but also for other functionalities.
+
+Most of the bugs were identified by Negative Testing.
+
+Compatibility testing was also performed, for different browsers. The bugs reproduce on all browsers. The main functionalities are working the same with other environment.
