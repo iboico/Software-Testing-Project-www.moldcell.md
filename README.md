@@ -8,7 +8,7 @@ This is my personal project that consists in testing a web application and conta
 
 Through the types of testing learned and the testing techniques applied I found 48 Test Cases (26 - Exploratory and 22 - Smoke) and after their execution, I found 21 bugs.
 
-# Steps
+# Project Management
 
 1. Create a mind map (Xmind)
 2. Exploratory Testing for main functionalities
