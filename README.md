@@ -1,3 +1,7 @@
+# TODO
+### To Improve:
+  - [ ]  Test Case documentation
+  - [ ]  Bugs Reporting
 # About project
 This is my personal project that consists in testing a web application and contains five parts: 
 1. A mind map (Xmind) 
