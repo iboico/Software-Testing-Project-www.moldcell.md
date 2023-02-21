@@ -4,7 +4,7 @@
   - [ ]  Bugs Reporting
 
 ### To Modify:
-  - [ ]  Add Mantis Bugs
+  - [x]  Add Mantis Bugs
 # About project
 This is my personal project that consists in testing a web application and contains five parts: 
 1. A mind map (Xmind) 
