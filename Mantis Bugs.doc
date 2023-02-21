@@ -1,0 +1,4812 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="https://bugs.scoalainformala.ro/css/default.css" />
+	<script type="text/javascript"><!--
+		if(document.layers) {document.write("<style>td{padding:0px;}<\/style>")}
+	// --></script>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<meta http-equiv="Pragma-directive" content="no-cache" />
+	<meta http-equiv="Cache-Directive" content="no-cache" />
+	<meta http-equiv="Expires" content="Tue, 21 Feb 2023 12:13:42 GMT" />
+	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+	<link rel="search" type="application/opensearchdescription+xml" title="MantisBT: Text Search" href="https://bugs.scoalainformala.ro/browser_search_plugin.php?type=text" />	<link rel="search" type="application/opensearchdescription+xml" title="MantisBT: Issue Id" href="https://bugs.scoalainformala.ro/browser_search_plugin.php?type=id" />	<title>MantisBT</title>
+<script type="text/javascript" src="/javascript/min/common.js"></script>
+<script type="text/javascript">var loading_lang = "Loading...";</script><script type="text/javascript" src="/javascript/min/ajax.js"></script>
+<link rel="stylesheet" href="https://bugs.scoalainformala.ro/plugins/agileMantis/css/agileMantis.css"><link rel="stylesheet" href="https://bugs.scoalainformala.ro/plugins/agileMantis/css/jquery-ui.css"><script src="https://bugs.scoalainformala.ro/plugins/agileMantis/js/jquery-1.9.1.js"></script><script src="https://bugs.scoalainformala.ro/plugins/agileMantis/js/jquery-ui.js"></script><script src="https://bugs.scoalainformala.ro/plugins/agileMantis/js/agileMantisActions.js"></script></head>
+<body>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47480	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		blocker	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-01 15:20	</td>
+	<td class="print">
+		2023-02-08 05:47	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Account settings: Upload account picture	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When the user is logged in and wants to update new profile picture in account settings, appears a pop-up window which requires pressing OK continuously	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Precondition:<br />
+1. The eShop page &quot;Magazin online&quot; is already opened: www.eshop.moldcell.md<br />
+2. The user is already logged in<br />
+<br />
+Steps to reproduce:<br />
+1. Open the account page: www.eshop.moldcell.md/index.php?route=account/account<br />
+2. Click on the default picture<br />
+3. Select the new picture from the file manager<br />
+4. Press Open<br />
+<br />
+Actual Result:<br />
+A pop-up window appears that requires pressing OK continuously<br />
+<br />
+Expected Result:<br />
+The new picture is uploaded	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		popup_window_upload_profile_photo.png (9,738) <span class="italic">2023-02-01 15:20</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33847&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47492	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		blocker	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-01 15:42	</td>
+	<td class="print">
+		2023-02-08 05:50	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Cart content: Update quantity in the cart	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When pressing the update button from the cart, the quantity is not updated	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Precondition:<br />
+1. The eShop page &quot;Magazin online&quot; is already opened: www.eshop.moldcell.md<br />
+2. The user is already logged in<br />
+3. The product is already in the cart (Apple iPhone 13 4/128GB Red, qty &quot;1&quot;)<br />
+<br />
+Steps to reproduce:<br />
+1. Open the cart<br />
+2. Press to update the quantity<br />
+3. Check the cart<br />
+<br />
+Actual Result:<br />
+A pop-up window appears with an error message<br />
+<br />
+Expected Result:<br />
+The selected product is in the cart, with updated qty &quot;2&quot;	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		update_quantity_from_cart.png (46,012) <span class="italic">2023-02-01 15:42</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33852&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47497	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		blocker	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-01 15:52	</td>
+	<td class="print">
+		2023-02-08 05:51	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Cart content: Remove from cart	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When pressing the remove button from the cart, the product is not removed	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Precondition:<br />
+1. The eShop page &quot;Magazin online&quot; is already opened: www.eshop.moldcell.md<br />
+2. The user is already logged in<br />
+3. The product is already in the cart (Apple iPhone 13 4/128GB Red, qty &quot;1&quot;)<br />
+<br />
+Steps to reproduce:<br />
+1. Open the cart<br />
+2. Press to remove the product<br />
+3. Check the cart<br />
+<br />
+Actual Result:<br />
+A pop-up window appears with an error message<br />
+<br />
+Expected Result:<br />
+The cart is empty	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		remove_from_cart.png (38,872) <span class="italic">2023-02-01 15:52</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33855&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47506	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-01 16:14	</td>
+	<td class="print">
+		2023-02-08 05:53	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Wishlist: Add a product as guest (new account)	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When wanting to add to the wishlist as a guest and register later	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+1. The eShop page &quot;Magazin online&quot; is already opened: www.eshop.moldcell.md<br />
+2. The user does not already have an account on the system<br />
+<br />
+Steps to reproduce:<br />
+1. From the eShop page &quot;Magazin online&quot;, select one product<br />
+2. Press add to wishlist<br />
+3. Click the registration link from the popup window<br />
+4. Enter registration data (Email address, password, confirm password, first name, last name, phone number)<br />
+5. Press the registration button &quot;Creaza cont&quot;<br />
+6. Check the wishlist<br />
+<br />
+Actual Result:<br />
+The wishlist is empty<br />
+<br />
+Expected Result:<br />
+The selected product is in the wishlist	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47512	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		major	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-01 17:24	</td>
+	<td class="print">
+		2023-02-08 05:56	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Registration: password longer than 20 characters	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When creating a new account with a password longer than 20 characters	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+1. The main page is already opened: www.moldcell.md<br />
+2. The user does not already have an account on the system<br />
+<br />
+Steps to reproduce:<br />
+1. Open the eShop page &quot;Magazin online&quot; www.eshop.moldcell.md<br />
+2. Press the account icon from the top menu and click on the registration button &quot;Inregistrare&quot;<br />
+3. Enter an alphanumeric value longer than 20 characters in length in the password field<br />
+4. Enter other registration data<br />
+5. Click the radio box to accept the terms and the &quot;I'm not a robot&quot; checkbox<br />
+6. Press the register button &quot;Creaza cont&quot;<br />
+<br />
+Actual Result:<br />
+The user is successfully registered<br />
+<br />
+Expected Result:<br />
+The password is not able to be used. Error message	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		password_length.png (9,968) <span class="italic">2023-02-01 17:24</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33857&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47521	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-01 17:56	</td>
+	<td class="print">
+		2023-02-08 05:58	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Registration: phone number less than 9 characters	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When creating a new account with a phone number less than 9 characters	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+1. The main page is already opened: www.moldcell.md<br />
+2. The user does not already have an account on the system<br />
+<br />
+Steps to reproduce:<br />
+1. Open the eShop page &quot;Magazin online&quot; www.eshop.moldcell.md<br />
+2. Press the account icon from the top menu and click on the registration button &quot;Inregistrare&quot;<br />
+3. Enter a phone number less than nine digits/characters<br />
+4. Enter other registration data<br />
+5. Click the radio box to accept the terms and the &quot;I'm not a robot&quot; checkbox<br />
+6. Press the register button &quot;Creaza cont&quot;<br />
+<br />
+Actual Result:<br />
+The user is successfully registered<br />
+<br />
+Expected Result:<br />
+The phone number is not able to be used. Error message<br />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		phone_number_length.png (11,558) <span class="italic">2023-02-01 17:56</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33858&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47522	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-01 18:09	</td>
+	<td class="print">
+		2023-02-08 06:00	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Registration: phone number contains alphanumeric characters	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When creating a new account with a phone number that contains alphanumeric characters	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+1. The main page is already opened: www.moldcell.md<br />
+2. The user does not already have an account on the system<br />
+<br />
+Steps to reproduce:<br />
+1. Open the eShop page &quot;Magazin online&quot; www.eshop.moldcell.md<br />
+2. Press the account icon from the top menu and click on the registration button &quot;Inregistrare&quot;<br />
+3. Enter alphanumeric characters in the phone number field<br />
+4. Enter other registration data<br />
+5. Click the radio box to accept the terms and the &quot;I'm not a robot&quot; checkbox<br />
+6. Press the register button &quot;Creaza cont&quot;<br />
+<br />
+Actual Result:<br />
+The user is successfully registered<br />
+<br />
+Expected Result:<br />
+The phone number is not able to be used. Error message	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		phone_number_alpha.png (3,865) <span class="italic">2023-02-01 18:09</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33859&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47517	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		major	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-01 17:43	</td>
+	<td class="print">
+		2023-02-08 06:02	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Registration: password contains only whitespaces	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When creating a new account with a password that contains only whitespaces	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+1. The main page is already opened: www.moldcell.md<br />
+2. The user does not already have an account on the system<br />
+<br />
+Steps to reproduce:<br />
+1. Open the eShop page &quot;Magazin online&quot; www.eshop.moldcell.md<br />
+2. Press the account icon from the top menu and click on the registration button &quot;Inregistrare&quot;<br />
+3. Enter four or more whitespaces with the space bar<br />
+4. Enter other registration data<br />
+5. Click the radio box to accept the terms and the &quot;I'm not a robot&quot; checkbox<br />
+6. Press the register button &quot;Creaza cont&quot;<br />
+<br />
+Actual Result:<br />
+The user is successfully registered<br />
+<br />
+Expected Result:<br />
+The password is not able to be used. Error message	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47526	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-01 18:21	</td>
+	<td class="print">
+		2023-02-08 06:04	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Registration: first and last name contain alphanumeric characters	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When creating a new account with a first and last name containing alphanumeric characters	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+1. The main page is already opened: www.moldcell.md<br />
+2. The user does not already have an account on the system<br />
+<br />
+Steps to reproduce:<br />
+1. Open the eShop page &quot;Magazin online&quot; www.eshop.moldcell.md<br />
+2. Press the account icon from the top menu and click on the registration button &quot;Inregistrare&quot;<br />
+3. Enter alphanumeric characters in the first name and last name fields<br />
+4. Enter other registration data<br />
+5. Click the radio box to accept the terms and the &quot;I'm not a robot&quot; checkbox<br />
+6. Press the register button &quot;Creaza cont&quot;<br />
+<br />
+Actual Result:<br />
+The user is successfully registered<br />
+<br />
+Expected Result:<br />
+The first and last name is not able to be used. Error message	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		first_last_name.png (7,214) <span class="italic">2023-02-01 18:21</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33863&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47552	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-01 19:04	</td>
+	<td class="print">
+		2023-02-08 06:06	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Wishlist: add out-of-stock product	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When selecting an out-of-stock product and adding it to the wishlist	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+1. The eShop page &quot;Magazin online&quot; is already opened: www.eshop.moldcell.md<br />
+2. The user is already logged in<br />
+3. The wishlist is empty<br />
+<br />
+Steps to reproduce:<br />
+1. From the eShop, select one product<br />
+2. Press add to wishlist<br />
+3. Check the wishlist<br />
+<br />
+Actual Result:<br />
+The selected product is in the wishlist<br />
+<br />
+Expected Result:<br />
+The out-of-stock product is not added to the wishlist	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		wishlist_out_of_stock.png (21,455) <span class="italic">2023-02-01 19:04</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33878&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47556	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		blocker	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-01 19:19	</td>
+	<td class="print">
+		2023-02-08 06:07	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Homepage UI: search field	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When looking for the search icon/field on the homepage, it is not found	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions: NA<br />
+<br />
+Steps to reproduce:<br />
+1. Open the homepage of the website: www.moldcell.md<br />
+2. Press on the search icon<br />
+3. Enter some data in the search field<br />
+4. Press the search button or enter<br />
+<br />
+Actual Result:<br />
+1. The search icon/field is not found<br />
+2. From the developer tools, the search icon/field is found<br />
+<br />
+Expected Result:<br />
+1. The search icon is found <br />
+2. The searched data is displayed	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		searc_field_homepage.png (38,458) <span class="italic">2023-02-01 19:19</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33880&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47560	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		major	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-01 19:30	</td>
+	<td class="print">
+		2023-02-08 06:07	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Homepage UI: responsive design	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When trying to resize the browser window, the homepage content is not properly displayed	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions: NA<br />
+<br />
+Steps to reproduce:<br />
+1. Open the website homepage: www.moldcell.md<br />
+2. Maximize and minimize the page window<br />
+<br />
+Actual Result:<br />
+The homepage content is not properly displayed<br />
+<br />
+Expected Result:<br />
+The webpage content is responsive by changing the dimensions of the screen	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		responsive_design.png (293,406) <span class="italic">2023-02-01 19:30</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33883&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47562	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-01 19:44	</td>
+	<td class="print">
+		2023-02-08 06:08	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Cart content: add product from wishlist to cart	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When pressing add to cart from the wishlist, redirects to the product page	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+1. The eShop page &quot;Magazin online&quot; is already opened: www.eshop.moldcell.md<br />
+2. The user is already logged in<br />
+3. The product is already in the wishlist<br />
+<br />
+Steps to reproduce:<br />
+1. Open the wishlist<br />
+2. Press add to cart<br />
+3. Check the cart<br />
+<br />
+Actual Result:<br />
+Redirects to the product page, when pressing add to cart<br />
+<br />
+Expected Result:<br />
+The product is in the cart	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		wishlist_add_to_cart.png (23,387) <span class="italic">2023-02-01 19:44</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33884&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47571	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-02 07:06	</td>
+	<td class="print">
+		2023-02-08 06:10	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Search: field contains whitespaces	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When entering only whitespaces in the search field, appears the list of products	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+The eShop page &quot;Magazin online&quot; is already opened: www.eshop.moldcell.md<br />
+<br />
+Steps to reproduce:<br />
+1. From the eShop page &quot;Magazin online&quot;, open the search page: www.eshop.moldcell.md/index.php?route=product/search<br />
+2. In the search field, enter only whitespaces<br />
+3. Press the search button &quot;Cautare&quot;<br />
+<br />
+Actual Result:<br />
+The list of products appears below<br />
+<br />
+Expected Result:<br />
+Nothing is displayed. Error message	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		search_whitespaces.png (29,095) <span class="italic">2023-02-02 07:06</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33892&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47572	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-02 07:14	</td>
+	<td class="print">
+		2023-02-08 06:11	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Search: empty field	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When pressing the search button without entering some characters, appears the list of products	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+The eShop page &quot;Magazin online&quot; is already opened: www.eshop.moldcell.md<br />
+<br />
+Steps to reproduce:<br />
+1. From the eShop page &quot;Magazin online&quot;, open the search page: www.eshop.moldcell.md/index.php?route=product/search<br />
+2. Leave the search field empty<br />
+3. Press the search button &quot;Cautare&quot;<br />
+<br />
+Actual Result:<br />
+The list of products appears below<br />
+<br />
+Expected Result:<br />
+Nothing is displayed. Error message	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		search_empty.png (29,545) <span class="italic">2023-02-02 07:14</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33893&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47573	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-02 07:24	</td>
+	<td class="print">
+		2023-02-08 06:13	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Search: full product name	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When entering the full product name as displayed on the eShop page, nothing is displayed	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+The eShop page &quot;Magazin online&quot; is already opened: www.eshop.moldcell.md<br />
+<br />
+Steps to reproduce:<br />
+1. From the eShop page &quot;Magazin online&quot;, open the search page: www.eshop.moldcell.md/index.php?route=product/search<br />
+2. Enter the product name in the search field<br />
+3. Press the search button &quot;Cautare&quot;<br />
+<br />
+Actual Result:<br />
+Nothing is displayed<br />
+<br />
+Expected Result:<br />
+The wanted product is displayed	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		search_full_product_name.png (44,711) <span class="italic">2023-02-02 07:24</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33894&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47578	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		major	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-02 08:30	</td>
+	<td class="print">
+		2023-02-08 06:21	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Account settings: old used password	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When entering an old used password, the account password is changed	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+1. The eShop page &quot;Magazin online&quot; is already opened: www.eshop.moldcell.md<br />
+2. The user is already logged in<br />
+<br />
+Steps to reproduce:<br />
+1. Open the account page &quot;Contul meu&quot;: www.eshop.moldcell.md/index.php?route=account/account<br />
+2. Enter an old password<br />
+3. Confirm the password<br />
+4. Press the save button &quot;Salveaza&quot;<br />
+<br />
+Actual Result:<br />
+The account password is changed<br />
+<br />
+Expected Result:<br />
+The account password is not changed. Error message<br />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		old_password.png (7,936) <span class="italic">2023-02-02 08:30</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33899&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47576	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		major	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-02 08:23	</td>
+	<td class="print">
+		2023-02-08 06:22	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Account settings: same password	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When entering the same password, the account password is changed	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+1. The eShop page &quot;Magazin online&quot; is already opened: www.eshop.moldcell.md<br />
+2. The user is already logged in<br />
+<br />
+Steps to reproduce:<br />
+1. Open the account page &quot;Contul meu&quot;: www.eshop.moldcell.md/index.php?route=account/account<br />
+2. Enter the same password<br />
+3. Confirm the password<br />
+4. Press the save button<br />
+<br />
+Actual Result:<br />
+The account password is changed<br />
+<br />
+Expected Result:<br />
+The account password is not changed. Error message	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		same_password.png (8,190) <span class="italic">2023-02-02 08:23</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33897&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47575	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		major	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-02 08:01	</td>
+	<td class="print">
+		2023-02-08 06:25	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Address list: remove primary address	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When pressing the remove address button, a warning message appears and the address is not removed	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+1. The eShop page &quot;Magazin online&quot; is already opened: www.eshop.moldcell.md<br />
+2. The user is already logged in<br />
+3. An address is already added as primary<br />
+<br />
+Steps to reproduce:<br />
+1. Open the account page &quot;Contul meu&quot;: www.eshop.moldcell.md/index.php?route=account/account<br />
+2. Press the edit address button &quot;Editeaza&quot;<br />
+3. Uncheck &quot;Adresa principala&quot;<br />
+4. Press the save button &quot;Salveaza&quot;<br />
+5. Press to remove the address &quot;Sterge&quot;<br />
+<br />
+Actual Result:<br />
+1. A warning message<br />
+2. The address is not removed<br />
+<br />
+Expected Result:<br />
+The address is removed<br />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		primary_address.png (8,009) <span class="italic">2023-02-02 08:01</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33896&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47574	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-02 07:43	</td>
+	<td class="print">
+		2023-02-08 06:28	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Address list: duplicate address	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When adding a duplicate address, no error is displayed	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+1. The eShop page &quot;Magazin online&quot; is already opened: www.eshop.moldcell.md<br />
+2. The user is already logged in<br />
+3. An address is already added<br />
+<br />
+Steps to reproduce:<br />
+1. Open the account page &quot;Contul meu&quot;: www.eshop.moldcell.md/index.php?route=account/account<br />
+2. Click to add an address &quot;Adresa noua&quot;<br />
+3. Enter the same address data<br />
+4. Press the save button &quot;Salveaza&quot;<br />
+<br />
+Actual Result:<br />
+The address is added<br />
+<br />
+Expected Result:<br />
+The address is not added. Error message	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		duplicate_address.png (41,855) <span class="italic">2023-02-02 07:43</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33895&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br /><br clear=all style='mso-special-character:line-break; page-break-before:always'><br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="form-title" colspan="3">
+		View Issue Details	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print-category">
+	<td class="print" width="16%">
+		ID:
+	</td>
+	<td class="print" width="16%">
+		Category:
+	</td>
+	<td class="print" width="16%">
+		Severity:
+	</td>
+	<td class="print" width="16%">
+		Reproducibility:
+	</td>
+	<td class="print" width="16%">
+		Date Submitted:
+	</td>
+	<td class="print" width="16%">
+		Last Update:
+	</td>
+</tr>
+<tr class="print">
+	<td class="print">
+		47535	</td>
+	<td class="print">
+		[Final Project National QA39] Bug	</td>
+	<td class="print">
+		major	</td>
+	<td class="print">
+		have not tried	</td>
+	<td class="print">
+		2023-02-01 18:41	</td>
+	<td class="print">
+		2023-02-08 06:34	</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Reporter:
+	</td>
+	<td class="print">
+		ion.boico	</td>
+	<td class="print-category">
+		Platform:
+	</td>
+	<td class="print">
+		MacBook Pro, Mid 2012	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Assigned To:
+	</td>
+	<td class="print">
+		alexandra.pas	</td>
+	<td class="print-category">
+		OS:
+	</td>
+	<td class="print">
+		Ventura	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Priority:
+	</td>
+	<td class="print">
+		normal	</td>
+	<td class="print-category">
+		OS Version:
+	</td>
+	<td class="print">
+		13.1	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Status:
+	</td>
+	<td class="print">
+		@50@	</td>
+	<td class="print-category">
+		Product Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Product Build:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print-category">
+		Resolution:
+	</td>
+	<td class="print">
+		open	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Projection:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		ETA:
+	</td>
+	<td class="print">
+		none	</td>
+	<td class="print-category">
+		Fixed in Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+
+</tr>
+<tr class="print">
+	<td class="print-category">
+		&#160;
+	</td>
+	<td class="print">
+		&#160;
+	</td>
+	<td class="print-category">
+		Target Version:
+	</td>
+	<td class="print">
+			</td>
+	<td class="print" colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="print-spacer" colspan="6">
+		<hr size="1" width="100%" />
+	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Summary:
+	</td>
+	<td class="print" colspan="5">
+		Forgot password: password reset link	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Description:
+	</td>
+	<td class="print" colspan="5">
+		When pressing the password reset button, there is no resetting link in the email inbox	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Steps To Reproduce:
+	</td>
+	<td class="print" colspan="5">
+		Preconditions:<br />
+1. The main page is already opened: www.moldcell.md<br />
+2. The user is already registered and has a valid email address and password to log in<br />
+<br />
+Steps to reproduce:<br />
+1. Open the eShop page &quot;Magazin online&quot; www.eshop.moldcell.md<br />
+2. Press the account icon from the top menu and click on the registration button &quot;Autentificare&quot;<br />
+2. Press on the link forgot the password &quot;Ai uitat parola?&quot;<br />
+3. Enter a valid email address<br />
+4. Press the reset button &quot;Reseteaza&quot;<br />
+<br />
+Actual Result:<br />
+1. A success message appears<br />
+2. There is no resetting link in the email inbox<br />
+<br />
+Expected Result: <br />
+The user received a forgot password link on the email address	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		Additional Information:
+	</td>
+	<td class="print" colspan="5">
+		The version under test: 1.0	</td>
+</tr>
+<tr class="print">
+	<td class="print-category">
+		System Description	</td>
+	<td class="print" colspan="5">
+			</td>
+</tr>
+<tr class="print">
+	<td class="print-category" valign="top">
+		Attached Files:
+	</td>
+	<td class="print" colspan="5">
+		forgot_password.png (8,688) <span class="italic">2023-02-01 18:41</span><br />https://bugs.scoalainformala.ro/file_download.php?file_id=33868&amp;type=bug	</td>
+</tr>
+<br />
+<table class="width100" cellspacing="1">
+<tr>
+	<td class="print" colspan="2">
+		There are no notes attached to this issue.	</td>
+</tr>
+
+</table>
+</table>
+
+
+<br /><br />
