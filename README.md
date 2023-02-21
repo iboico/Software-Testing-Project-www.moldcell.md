@@ -2,6 +2,9 @@
 ### To Improve:
   - [ ]  Test Case documentation
   - [ ]  Bugs Reporting
+
+### To Modify:
+  - [ ]  Add Mantis Bug
 # About project
 This is my personal project that consists in testing a web application and contains five parts: 
 1. A mind map (Xmind) 
