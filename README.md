@@ -1,7 +1,7 @@
 # About project
 This is my personal project that consists in testing a web application and contains five parts: 
-1. a mind map (Xmind) 
-2. a PowerPoint Presentation
+1. A mind map (Xmind) 
+2. A PowerPoint Presentation
 3. Test Data for Smoke Tests (Excel)
 4. Smoke Test Cases (Excel)
 5. Test Report (Word)
@@ -14,9 +14,9 @@ Through the types of testing learned and the testing techniques applied I found 
 2. Exploratory Testing for main functionalities
 3. Apply test design techniques such as equivalence class partition, boundary value analysis
 4. Write the Smoke Tests and execute them
-5. Write the Test Report
-6. Write the Test Data Set
-7. Bug Reporting under Mantis
+5. Write the Test Data Set
+6. Bug Reporting under Mantis
+7. Write the Test Report
 
 # Tools used
 
